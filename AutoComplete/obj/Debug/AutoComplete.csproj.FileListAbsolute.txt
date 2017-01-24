@@ -1,0 +1,9 @@
+c:\users\sirriddle\documents\visual studio 2015\Projects\AutoComplete\AutoComplete\bin\Debug\AutoComplete.exe.config
+c:\users\sirriddle\documents\visual studio 2015\Projects\AutoComplete\AutoComplete\bin\Debug\AutoComplete.exe
+c:\users\sirriddle\documents\visual studio 2015\Projects\AutoComplete\AutoComplete\bin\Debug\AutoComplete.pdb
+c:\users\sirriddle\documents\visual studio 2015\Projects\AutoComplete\AutoComplete\obj\Debug\AutoComplete.csprojResolveAssemblyReference.cache
+c:\users\sirriddle\documents\visual studio 2015\Projects\AutoComplete\AutoComplete\obj\Debug\AutoComplete.Form1.resources
+c:\users\sirriddle\documents\visual studio 2015\Projects\AutoComplete\AutoComplete\obj\Debug\AutoComplete.Properties.Resources.resources
+c:\users\sirriddle\documents\visual studio 2015\Projects\AutoComplete\AutoComplete\obj\Debug\AutoComplete.csproj.GenerateResource.Cache
+c:\users\sirriddle\documents\visual studio 2015\Projects\AutoComplete\AutoComplete\obj\Debug\AutoComplete.exe
+c:\users\sirriddle\documents\visual studio 2015\Projects\AutoComplete\AutoComplete\obj\Debug\AutoComplete.pdb
